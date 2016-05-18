@@ -32,4 +32,10 @@ public String getLogin(org.springframework.ui.Model model)
 	 
 	return "login";
 }
+@RequestMapping("/aboutus.html")
+public String getAboutUs(org.springframework.ui.Model model)
+{
+	 
+	return "aboutus";
+}
 }

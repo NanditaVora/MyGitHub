@@ -82,63 +82,17 @@
 			<div class="row main">
 				<div class="panel-heading">
 	               <div class="panel-title text-center">
-	               		<h1 class="title">Suggestion Box</h1>
+	               		<h1 class="title">About Us</h1>
 	               		<hr />
 	               	</div>
 	            </div> 
 	             
 	            
 				<div class="container">
-				
-					<form role="form" method="post" >
-					 	<div class="row">
-						<div class="col-xs-10 col-sm-6 col-md-6 col-lg-6"> 
-						<div class="form-group ">
-							<label for="name" class="cols-sm-12 control-label">Your Name</label>
-							 
-								<div class="input-group ">
-									<span class="input-group-addon cols-sm-12"><i class="fa fa-user fa" aria-hidden="true"></i></span>
-									<input type="text" class="form-control cols-sm-12 cols-lg-3" name="name" id="name"  placeholder="Enter your Name"/>
-								</div>
-							 
-						</div>
-						</div>
-					 </div>
-					 <div class="row">
-						<div class="col-xs-10 col-sm-6 col-md-6 col-lg-6"> 
-						<div class="form-group">
-							<label for="email" class="cols-sm-12 control-label">Your Email</label>
-							 
-								<div class="input-group">
-									<span class="input-group-addon cols-sm-12"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
-									<input type="text" class="form-control cols-sm-12" name="email" id="email"  placeholder="Enter your Email"/>
-								</div>
-							 
-						</div>
-						</div>
-						 </div>
-						  <div class="row">
-						<div class="col-xs-10 col-sm-6 col-md-6 col-lg-6 ">  
-						<div class="form-group">
-							<label for="suggestion" class="cols-sm-12 control-label">Suggestion</label>
-							 
-								<div class="input-group">
-									<span class="input-group-addon cols-sm-12"><i class="fa fa-users fa" aria-hidden="true"></i></span>
-									<textarea rows="5" cols="60"  class="form-control cols-sm-12" name="suggestion" id="suggestion" ></textarea>
-								</div>
-						 
-						</div>
-						</div>
-						</div>
-						<div class="row">
-						<div class="col-xs-10 col-sm-6 col-md-6 col-lg-6 ">  
-						<div class="form-group ">
-							<button type="button" class="btn btn-primary btn-lg btn-block login-button">Submit</button>
-						 
-						</div> 
-						</div>
-						</div> 
-					</form>
+				Oswego's music program, which offers bountiful hands-on learning opportunities, is accredited by the National Association of Schools of Music. Through its four components -- music history and literature, music theory, applied studio study and ensemble performance -- it provides both music and non-music majors with many opportunities to study and perform. 
+
+You can learn to play an instrument, participate in various performing groups, compose music, explore audio production/technology, take courses in music theory or literature and attend concerts presented throughout the year.
+			 
 				 </div>
 				  
 				 </div>

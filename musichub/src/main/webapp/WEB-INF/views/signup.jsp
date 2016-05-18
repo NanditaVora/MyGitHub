@@ -63,7 +63,7 @@
       <ul class="nav navbar-nav">
          
        <li><a   href="index.html">Home</a></li>
-      <li> <a  href="#">About Us</a></li>
+      <li> <a  href="aboutus.html">About Us</a></li>
        
       </ul>
       

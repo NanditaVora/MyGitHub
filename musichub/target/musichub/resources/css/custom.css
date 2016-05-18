@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+#the-slider
+{
+	width:100%;
+	text-align: center;
+}
+
+#the-slider img
+{
+	width:100%;
+	height:400px;
+}
+
+ .row img
+{
+	width:100px;
+	height:100px; 
+} 

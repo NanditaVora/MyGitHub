@@ -1,0 +1,14 @@
+var products = {"products" : [{ 
+		"guitars" : [
+		             {"productid" : "P001","name" : "electronic guitar", "price" : "5500" , "qty" : "5", "description" : "guitars for professional","img":"eguitar.jpg" }, 
+					 {"productid" : "P002","name" : "wooden frame guitar", "price" : "4500" , "qty" : "4", "description" : "guitars with bass effects","img":"woodguitar.jpg"  }
+					],
+		"piano" : [
+		             {"productid" : "P003","name" : "baby piano", "price" : "10000" , "qty" : "3", "description" : "piano for teenagers","img":"babypiano.jpg"  }, 
+					 {"productid" : "P004","name" : "dolby piano", "price" : "24500" , "qty" : "6", "description" : "piano with dolby effect","img":"dolbypiano.jpg"  }
+					],
+		"piano" : [
+			         {"productid" : "P003","name" : "drum sticks", "price" : "1000" , "qty" : "3", "description" : "drum sticks for drummer","img":"drumsticks.jpg"  }, 
+					 {"productid" : "P004","name" : "cordless mic", "price" : "24500" , "qty" : "6", "description" : "mic for karoke system","img":"mic.jpg"  }
+				]
+	}]};

@@ -38,4 +38,10 @@ public String getAboutUs(org.springframework.ui.Model model)
 	 
 	return "aboutus";
 }
+@RequestMapping("/products.html")
+public String getAllProducts(org.springframework.ui.Model model)
+{
+	 
+	return "products";
+}
 }
